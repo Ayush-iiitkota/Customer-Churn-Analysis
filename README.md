@@ -140,8 +140,8 @@ This project demonstrates how combining **data analysis, customer segmentation, 
 
 ## 📎 Author
 
-**Bhushan**
-Aspiring Data Analyst | Python | SQL | Machine Learning
+**Ayush Singh**
+Aspiring Data Analyst | Python | MySQL | Machine Learning
 
 ---
 
